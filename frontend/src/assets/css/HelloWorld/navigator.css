@@ -1,0 +1,37 @@
+  .navigator{
+    height: 80px;
+    width: 100%;
+    background: linear-gradient(
+      to top,
+      white,
+      #E2EBE3
+    );
+    backdrop-filter: blur(10px);
+  }
+  .navigator-left{
+    font-size: 30px;
+    display: inline-flex;
+    float: left;
+    margin-left: 50px;
+    margin-top: 25px;
+  }
+  .el-icon-s-platform-text {
+    font-family: "华文仿宋",sans-serif;
+  }
+  .navigator-right{
+    align-self: center;
+    display: inline-flex;
+    float: right;
+    margin-right: 50px;
+    margin-top: 20px;
+  }
+  .buttons{
+    display: inline-flex;
+    margin-top: 60px;
+    background-color: #347801;
+  }
+  .time-container {
+    text-align: center;
+    font-family: ”华文仿宋“, sans-serif;
+    font-size: 30px;
+  }

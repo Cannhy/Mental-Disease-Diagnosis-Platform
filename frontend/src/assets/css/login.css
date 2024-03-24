@@ -1,0 +1,114 @@
+
+   .background{
+    /*background-image: url("../img/1.jpg");*/
+    height: 100vh;
+  }
+  .head{
+    text-align: center;
+    margin-top: 1px;
+    font-size: 30px;
+    font-family: '华文仿宋', serif;
+  }
+  .register_block{
+    background-color: rgba(255, 255, 255, 0.15);
+    margin-top: 20px;
+    margin-left: 5%;
+    width: 30%;
+    height: 600px;
+    border-color: #ffffff;
+    border-style: solid;
+    border-width: 1px;
+    border-radius: 20px;
+    opacity: 0.8;
+    float: left;
+  }
+  .register_head{
+    margin-left: 170px;
+    margin-top: 20%;
+    font-family: "微软雅黑", serif;
+    font-weight: bolder;
+    color: black;
+    font-size: 40px;
+  }
+   .register_head_admin{
+     margin-left: 160px;
+     margin-top: 20%;
+     font-family: "微软雅黑", serif;
+     font-weight: bolder;
+     color: black;
+     font-size: 40px;
+   }
+   .register_right_student{
+     margin-right: 5%;
+     width: 55%;
+     height: 600px;
+     border-color: #ffffff;
+     border-style: solid;
+     border-width: 1px;
+     border-radius: 20px;
+     opacity: 0.8;
+     float: right;
+     background-image: url("../img/1.jpg");
+   }
+   .register_right_teacher{
+
+     margin-right: 5%;
+     width: 55%;
+     height: 600px;
+     border-color: #ffffff;
+     border-style: solid;
+     border-width: 1px;
+     border-radius: 20px;
+     opacity: 0.8;
+     float: right;
+     background-image: url("../img/2.jpg");
+   }
+   .register_right_admin{
+     margin-top: 20px;
+     margin-right: 5%;
+     width: 55%;
+     height: 600px;
+     border-color: #ffffff;
+     border-style: solid;
+     border-width: 1px;
+     border-radius: 20px;
+     opacity: 0.8;
+     float: right;
+     background-image: url("../img/3.jpg");
+   }
+  #register-n, #register-name, #register-password, #confirm-password{
+    padding-left: 10%;
+  }
+  .confirm-button, .register-button, .return-button{
+    margin-top: 15px;
+    padding-left: 10%;
+  }
+  .inputs{
+    width: 90%;
+    height: 20px;
+    border: none;
+    margin-left: 70px;
+  }
+   #button_in_student {
+     background-color: #81AC87;
+     margin-left: 70px;
+     width: 70%;
+   }
+   #button_in_teacher {
+     background-color: #DAD4B3;
+     margin-left: 70px;
+     width: 70%;
+   }
+   #button_in_admin {
+     background-color: #B3DAB4;
+     margin-left: 70px;
+     width: 70%;
+   }
+   #button_re{
+     width: 70%;
+     margin-left: 70px;
+   }
+  .return-text{
+    margin-top: 10px;
+    margin-left: 250px;
+  }

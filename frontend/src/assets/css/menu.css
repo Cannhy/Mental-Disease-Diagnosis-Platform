@@ -1,0 +1,14 @@
+body {
+  margin: 0;
+  height: 90vh;
+}
+
+.el-menu-vertical-demo:not(.el-menu--collapse) {
+  width: 250px;
+}
+
+.el-head-menu {
+  height: 90vh;
+  width: 249px;
+
+}

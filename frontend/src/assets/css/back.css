@@ -1,0 +1,30 @@
+body {
+  margin: 0;
+}
+
+.background {
+  height: 90vh;
+}
+
+.main {
+  height: 90vh;
+}
+
+.heading_left {
+  font-size: 20px;
+  display: inline-flex;
+  float: left;
+  margin-top: 20px;
+  font-family: fontFestival;
+}
+
+.heading_right {
+  font-size: 20px;
+  display: inline-flex;
+  float: right;
+}
+
+.header {
+  line-height: 60px;
+  font-family: fontFestival;
+}
